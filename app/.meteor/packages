@@ -21,3 +21,7 @@ insecure                # Allow all DB writes from clients (for prototyping)
 meteortoys:allthings
 okgrow:analytics
 meteorhacks:kadira
+nemo64:bootstrap
+useraccounts:bootstrap
+less
+iron:router
