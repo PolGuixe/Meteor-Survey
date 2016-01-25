@@ -25,3 +25,4 @@ nemo64:bootstrap
 useraccounts:bootstrap
 less
 iron:router
+accounts-meteor-developer

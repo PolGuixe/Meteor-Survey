@@ -1,4 +1,6 @@
 accounts-base@1.2.2
+accounts-meteor-developer@1.0.6
+accounts-oauth@1.1.8
 autopublish@1.0.4
 autoupdate@1.2.4
 babel-compiler@5.8.24_1
@@ -53,6 +55,7 @@ localstorage@1.0.5
 logging@1.0.8
 meteor@1.1.10
 meteor-base@1.0.1
+meteor-developer@1.1.5
 meteorhacks:kadira@2.27.2
 meteorhacks:meteorx@1.4.1
 meteortoys:allthings@2.3.1
@@ -82,6 +85,8 @@ msavin:mongol@1.6.2
 nemo64:bootstrap@3.3.5_2
 nemo64:bootstrap-data@3.3.5
 npm-mongo@1.4.39_1
+oauth@1.1.6
+oauth2@1.1.5
 observe-sequence@1.0.7
 okgrow:analytics@1.0.4
 ordered-dict@1.0.4
