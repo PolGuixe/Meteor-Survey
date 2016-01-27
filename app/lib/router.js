@@ -7,3 +7,6 @@ Router.configure({
 Router.route('/', {
   name: 'landingPage'
 });
+Router.route('/sign-in', {
+  name: 'signin'
+});

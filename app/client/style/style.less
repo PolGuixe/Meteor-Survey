@@ -1,5 +1,16 @@
 @import "bootstrap/custom.bootstrap.import.less";
-
-body{
+@footer-height: 50px;
+.main {
   padding-top: @navbar-height;
+  min-height: calc(~"100vh - " @footer-height);
+}
+.footer {
+  height: @footer-height;
+  display: flex;
+  align-items: center;
+}
+.block {
+  height: calc(~"100vh - " @footer-height ~" - " @navbar-height);
+  display: flex;
+  align-items: center;
 }
