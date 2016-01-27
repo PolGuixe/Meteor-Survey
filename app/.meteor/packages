@@ -28,3 +28,6 @@ iron:router
 accounts-meteor-developer
 service-configuration
 fortawesome:fontawesome
+aldeed:autoform
+aldeed:collection2
+aldeed:autoform-bs-button-group-input

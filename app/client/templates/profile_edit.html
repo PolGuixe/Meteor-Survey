@@ -1,0 +1,11 @@
+<template name="profileEdit">
+  <div class="container">
+    {{#autoForm collection="Meteor.users" doc=user id="user-profile-edit" type="update"}}
+      {{> afQuickField name='profile.experience'}}
+      {{> afQuickField name='profile.professionalExperience'}}
+      {{> afQuickField name='profile.meteorExperience'}}
+      {{> afQuickField name='profile.meteorProfesional'}}
+      <button class="btn btn-primary" id="user-profile-edit-submit" type="submit">Save</button>
+    {{/autoForm}}
+  </div>
+</template>

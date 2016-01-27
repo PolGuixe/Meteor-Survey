@@ -10,3 +10,6 @@ Router.route('/', {
 Router.route('/sign-in', {
   name: 'signin'
 });
+Router.route('/edit-profile', {
+  name: 'profileEdit'
+});
